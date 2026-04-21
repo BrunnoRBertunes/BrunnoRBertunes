@@ -1,16 +1,63 @@
-## Hi there 👋
+<!-- BANNER -->
 
-<!--
-**BrunnoRBertunes/BrunnoRBertunes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:1f6feb&height=180&section=header&text=Brunno%20Rabelo%20Bertunes&fontSize=35&fontColor=ffffff&animation=fadeIn" />
+</p>
 
-Here are some ideas to get you started:
+# 👋 Welcome to my profile
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+💻 Me chamo **Brunno Rabelo Bertunes**
+🚀 Focado em desenvolvimento **FullStack**
+⚡ Apaixonado por tecnologia e evolução constante
+
+
+## 📬 Connect with me
+
+<p align="left">
+  <a href="mailto:brunnorabelob@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white">
+  </a>
+  <a href="https://github.com/BrunnoRBertunes">
+    <img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white">
+  </a>
+  <a href="https://x.com/">
+    <img src="https://img.shields.io/badge/X-000?style=for-the-badge&logo=twitter&logoColor=white">
+  </a>
+</p>
+
+## 🚀 My Stack
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=html,css,js" />
+</p>
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=BrunnoRBertunes&show_icons=true&theme=tokyonight&hide_border=true"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BrunnoRBertunes&layout=compact&theme=tokyonight&hide_border=true"/>
+</p>
+
+## 🔥 Streak
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=BrunnoRBertunes&theme=tokyonight&hide_border=true"/>
+</p>
+
+
+## 📈 Activity Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=BrunnoRBertunes&theme=tokyo-night&hide_border=true"/>
+</p>
+
+## 🧠 About me
+
+* 🎯 Buscando evolução constante como desenvolvedor
+* 💡 Focado em projetos práticos
+* ⚙️ Interesse em performance e boas práticas
+* 📚 Sempre aprendendo algo novo
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1f6feb,100:0d1117&height=120&section=footer"/>
+</p>
