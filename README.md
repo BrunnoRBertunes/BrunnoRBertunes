@@ -4,14 +4,14 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:1f6feb&height=180&section=header&text=Brunno%20Rabelo%20Bertunes&fontSize=35&fontColor=ffffff&animation=fadeIn" />
 </p>
 
-# 👋 Welcome to my profile
+# 👋 Bem vindo ao meu Perfil
 
 💻 Me chamo **Brunno Rabelo Bertunes**
 🚀 Focado em desenvolvimento **FullStack**
 ⚡ Apaixonado por tecnologia e evolução constante
 
 
-## 📬 Connect with me
+## 📬 Contato
 
 <p align="left">
   <a href="mailto:brunnorabelob@gmail.com">
