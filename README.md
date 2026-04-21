@@ -25,13 +25,13 @@
   </a>
 </p>
 
-## 🚀 My Stack
+## 🚀 Minhas Stacks
 
 <p align="left">
   <img src="https://skillicons.dev/icons?i=html,css,js" />
 </p>
 
-## 📊 GitHub Stats
+## 📊 GitHub Status
 
 <p align="center">
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=BrunnoRBertunes&show_icons=true&theme=tokyonight&hide_border=true"/>
@@ -45,13 +45,13 @@
 </p>
 
 
-## 📈 Activity Graph
+## 📈 Gráfico de atividades
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=BrunnoRBertunes&theme=tokyo-night&hide_border=true"/>
 </p>
 
-## 🧠 About me
+## 🧠 Sobre Mim
 
 * 🎯 Buscando evolução constante como desenvolvedor
 * 💡 Focado em projetos práticos
